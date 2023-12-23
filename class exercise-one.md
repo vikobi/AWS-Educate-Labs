@@ -4,11 +4,11 @@
 
 `git init`
 
-``` bash git remote add origin git@github.com:vikobi/AWS-Educate-labs.git
+``` bash
+git remote add origin git@github.com:vikobi/AWS-Educate-labs.git
 git branch -M main
 git push -u origin main
 ```
-
 ![makdown](../AWS-Educate-labs/Assets/Markdown%20ext.png)
 
 ![vcode](../AWS-Educate-labs/Assets/vscode%20sync.png)
