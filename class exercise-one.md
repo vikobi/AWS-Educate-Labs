@@ -2,8 +2,9 @@
 ### The command below was used to push the aws-educate-labs folder to github
 
 
-``` bash git init
-git remote add origin git@github.com:vikobi/AWS-Educate-labs.git
+`git init`
+
+``` bash git remote add origin git@github.com:vikobi/AWS-Educate-labs.git
 git branch -M main
 git push -u origin main
 ```
